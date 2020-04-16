@@ -1,1 +1,248 @@
-var _0xf02b=["\x73\x74\x61\x74\x65\x77\x69\x73\x65","\x6A\x73\x6F\x6E","\x74\x68\x65\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x63\x6F\x76\x69\x64\x31\x39\x69\x6E\x64\x69\x61\x2E\x6F\x72\x67\x2F\x64\x61\x74\x61\x2E\x6A\x73\x6F\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x63\x6F\x76\x69\x64\x31\x39\x69\x6E\x64\x69\x61\x2E\x6F\x72\x67\x2F\x73\x74\x61\x74\x65\x5F\x64\x69\x73\x74\x72\x69\x63\x74\x5F\x77\x69\x73\x65\x2E\x6A\x73\x6F\x6E","\x63\x6F\x6E\x66\x69\x72\x6D\x65\x64","\x66\x69\x6C\x74\x65\x72","\x73\x74\x61\x74\x65","\x54\x6F\x74\x61\x6C","","\x3C\x74\x68\x65\x61\x64\x3E\x3C\x74\x72\x3E\x3C\x74\x68\x20\x63\x6C\x61\x73\x73\x3D\x27\x73\x69\x67\x6E\x27\x3E\x3C\x2F\x74\x68\x3E\x3C\x74\x68\x20\x73\x74\x79\x6C\x65\x3D\x27\x77\x69\x64\x74\x68\x3A\x33\x30\x25\x27\x3E\x53\x74\x61\x74\x65\x20\x4E\x61\x6D\x65\x3C\x2F\x74\x68\x3E\x3C\x74\x68\x20\x63\x6C\x61\x73\x73\x3D\x27\x68\x65\x61\x64\x69\x6E\x67\x27\x20\x6F\x6E\x63\x6C\x69\x63\x6B\x3D\x22\x73\x6F\x72\x74\x44\x61\x74\x61\x28\x27\x63\x6F\x6E\x66\x69\x72\x6D\x65\x64\x27\x29\x22\x09\x73\x74\x79\x6C\x65\x3D\x27\x77\x69\x64\x74\x68\x3A\x31\x39\x25\x27\x3E\x43\x4F\x4E\x46\x49\x52\x4D\x45\x44\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x27\x73\x6F\x72\x74\x2D\x73\x69\x67\x6E\x20\x66\x61\x20\x66\x61\x2D\x73\x6F\x72\x74\x27\x3E\x3C\x2F\x69\x3E\x3C\x2F\x74\x68\x3E\x3C\x74\x68\x20\x63\x6C\x61\x73\x73\x3D\x27\x68\x65\x61\x64\x69\x6E\x67\x27\x20\x73\x74\x79\x6C\x65\x3D\x27\x77\x69\x64\x74\x68\x3A\x31\x34\x25\x27\x20\x6F\x6E\x63\x6C\x69\x63\x6B\x3D\x22\x73\x6F\x72\x74\x44\x61\x74\x61\x28\x27\x61\x63\x74\x69\x76\x65\x27\x29\x22\x3E\x41\x43\x54\x49\x56\x45\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x27\x73\x6F\x72\x74\x2D\x73\x69\x67\x6E\x20\x66\x61\x20\x66\x61\x2D\x73\x6F\x72\x74\x27\x3E\x3C\x2F\x69\x3E\x3C\x2F\x74\x68\x3E\x3C\x74\x68\x20\x63\x6C\x61\x73\x73\x3D\x27\x68\x65\x61\x64\x69\x6E\x67\x27\x20\x73\x74\x79\x6C\x65\x3D\x27\x77\x69\x64\x74\x68\x3A\x32\x30\x25\x27\x20\x6F\x6E\x63\x6C\x69\x63\x6B\x3D\x22\x73\x6F\x72\x74\x44\x61\x74\x61\x28\x27\x72\x65\x63\x6F\x76\x65\x72\x65\x64\x27\x29\x22\x3E\x52\x45\x43\x4F\x56\x45\x52\x45\x44\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x27\x73\x6F\x72\x74\x2D\x73\x69\x67\x6E\x20\x66\x61\x20\x66\x61\x2D\x73\x6F\x72\x74\x27\x3E\x3C\x2F\x69\x3E\x3C\x2F\x74\x68\x3E\x3C\x74\x68\x20\x63\x6C\x61\x73\x73\x3D\x27\x68\x65\x61\x64\x69\x6E\x67\x27\x20\x73\x74\x79\x6C\x65\x3D\x27\x77\x69\x64\x74\x68\x3A\x32\x30\x25\x27\x20\x6F\x6E\x63\x6C\x69\x63\x6B\x3D\x22\x73\x6F\x72\x74\x44\x61\x74\x61\x28\x27\x64\x65\x61\x74\x68\x73\x27\x29\x22\x3E\x44\x45\x41\x54\x48\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x27\x73\x6F\x72\x74\x2D\x73\x69\x67\x6E\x20\x66\x61\x20\x66\x61\x2D\x73\x6F\x72\x74\x27\x3E\x3C\x2F\x69\x3E\x3C\x2F\x74\x68\x3E\x3C\x2F\x74\x72\x3E\x3C\x2F\x74\x68\x65\x61\x64\x3E\x3C\x74\x62\x6F\x64\x79\x3E","\x6C\x65\x6E\x67\x74\x68","\x3C\x74\x72\x20\x63\x6C\x61\x73\x73\x3D\x27\x62\x72\x65\x61\x6B\x72\x6F\x77\x27\x3E","\x3C\x74\x64\x20\x73\x74\x79\x6C\x65\x3D\x27\x77\x69\x64\x74\x68\x3A\x34\x25\x3B\x27\x3E\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x27\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x72\x69\x67\x68\x74\x27\x20\x73\x74\x79\x6C\x65\x3D\x27\x66\x6F\x6E\x74\x2D\x77\x65\x69\x67\x68\x74\x3A\x62\x6F\x6C\x64\x3B\x66\x6F\x6E\x74\x2D\x73\x69\x7A\x65\x3A\x6C\x61\x72\x67\x65\x27\x3E\x3C\x2F\x69\x3E\x3C\x2F\x74\x64\x3E","\x3C\x74\x64\x3E","\x3C\x2F\x74\x64\x3E","\x61\x63\x74\x69\x76\x65","\x72\x65\x63\x6F\x76\x65\x72\x65\x64","\x64\x65\x61\x74\x68\x73","\x3C\x2F\x74\x64\x3E\x3C\x2F\x74\x72\x3E","\x3C\x74\x72\x20\x63\x6C\x61\x73\x73\x3D\x27\x64\x61\x74\x61\x72\x6F\x77\x27\x3E\x3C\x74\x64\x3E\x3C\x2F\x74\x64\x3E\x3C\x74\x64\x20\x63\x6F\x6C\x73\x70\x61\x6E\x3D\x27\x35\x27\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x27\x73\x75\x62\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x27\x3E\x3C\x74\x61\x62\x6C\x65\x20\x63\x6C\x61\x73\x73\x3D\x27\x63\x68\x69\x6C\x64\x27\x3E","\x3C\x74\x68\x65\x61\x64\x3E\x3C\x74\x72\x20\x63\x6C\x61\x73\x73\x3D\x27\x74\x61\x62\x6C\x65\x68\x65\x61\x64\x65\x72\x27\x3E\x3C\x74\x68\x20\x73\x74\x79\x6C\x65\x3D\x27\x77\x69\x64\x74\x68\x3A\x31\x30\x30\x25\x27\x3E\x44\x69\x73\x74\x72\x69\x63\x74\x20\x4E\x61\x6D\x65\x3C\x2F\x74\x68\x3E\x3C\x74\x68\x20\x73\x74\x79\x6C\x65\x3D\x27\x70\x61\x64\x64\x69\x6E\x67\x3A\x30\x70\x78\x20\x35\x70\x78\x3B\x27\x3E\x43\x4F\x4E\x46\x49\x52\x4D\x45\x44\x3C\x2F\x74\x68\x3E\x3C\x2F\x74\x72\x3E\x3C\x2F\x74\x68\x65\x61\x64\x3E\x3C\x74\x62\x6F\x64\x79\x3E","\x3C\x74\x72\x20\x63\x6C\x61\x73\x73\x3D\x27\x64\x69\x73\x74\x72\x69\x63\x74\x72\x6F\x77\x27\x3E","\x64\x69\x73\x74\x72\x69\x63\x74\x44\x61\x74\x61","\x66\x6F\x72\x45\x61\x63\x68","\x6B\x65\x79\x73","\x3C\x2F\x74\x62\x6F\x64\x79\x3E\x3C\x2F\x74\x61\x62\x6C\x65\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x74\x64\x3E\x3C\x2F\x74\x72\x3E","\x3C\x2F\x74\x62\x6F\x64\x79\x3E","\x66\x69\x6E\x64\x49\x6E\x64\x65\x78","\x3C\x74\x66\x6F\x6F\x74\x3E\x3C\x74\x72\x3E\x3C\x74\x68\x20\x63\x6C\x61\x73\x73\x3D\x27\x73\x69\x67\x6E\x27\x3E\x3C\x2F\x74\x68\x3E\x3C\x74\x68\x3E\x54\x6F\x74\x61\x6C\x3C\x2F\x74\x68\x3E","\x3C\x74\x68\x3E","\x3C\x2F\x74\x68\x3E","\x3C\x2F\x74\x68\x3E\x3C\x2F\x74\x72\x3E\x3C\x2F\x74\x66\x6F\x6F\x74\x3E","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x73\x74\x61\x74\x65\x2D\x74\x61\x62\x6C\x65","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x76\x61\x6C\x75\x65","\x23\x73\x65\x61\x72\x63\x68\x2D\x69\x6E\x70\x75\x74","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72","\x6C\x6F\x67","\x73\x6F\x72\x74","\x63\x6C\x69\x63\x6B","\x74\x72\x2E\x62\x72\x65\x61\x6B\x72\x6F\x77","\x73\x77\x69\x6E\x67","\x73\x6C\x69\x64\x65\x54\x6F\x67\x67\x6C\x65","\x2E\x62\x72\x65\x61\x6B\x72\x6F\x77","\x6E\x65\x78\x74\x55\x6E\x74\x69\x6C","\x74\x72","\x63\x6C\x6F\x73\x65\x73\x74","\x63\x6C\x61\x73\x73","\x61\x74\x74\x72","\x69","\x66\x69\x6E\x64","\x72\x65\x6D\x6F\x76\x65\x43\x6C\x61\x73\x73","\x72\x69\x67\x68\x74","\x69\x6E\x64\x65\x78\x4F\x66","\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x64\x6F\x77\x6E","\x61\x64\x64\x43\x6C\x61\x73\x73","\x66\x61\x20\x66\x61\x2D\x61\x6E\x67\x6C\x65\x2D\x72\x69\x67\x68\x74","\x6F\x6E","\x23\x73\x74\x61\x74\x65\x2D\x74\x61\x62\x6C\x65","\x72\x65\x61\x64\x79","\x23\x73\x74\x61\x74\x65\x2D\x74\x61\x62\x6C\x65\x20\x74\x62\x6F\x64\x79\x20\x74\x72","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72\x41\x6C\x6C","\x63\x6C\x65\x61\x72","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x64\x61\x74\x61\x72\x6F\x77","\x64\x69\x73\x70\x6C\x61\x79","\x73\x74\x79\x6C\x65","\x6E\x6F\x6E\x65","\x64\x6F\x77\x6E","\x63\x68\x69\x6C\x64\x4E\x6F\x64\x65\x73","\x63\x65\x6C\x6C\x73","\x62\x72\x65\x61\x6B\x72\x6F\x77","\x64\x69\x73\x74\x72\x69\x63\x74\x72\x6F\x77","\x74\x6F\x55\x70\x70\x65\x72\x43\x61\x73\x65","\x70\x75\x73\x68","\x63\x75\x72\x72\x65\x6E\x74","\x63\x6F\x72\x65\x63\x68\x61\x72\x74","\x62\x61\x72","\x6C\x6F\x61\x64","\x63\x68\x61\x72\x74\x73","\x73\x65\x74\x4F\x6E\x4C\x6F\x61\x64\x43\x61\x6C\x6C\x62\x61\x63\x6B","\x72\x67\x62\x28\x32\x35\x35\x2C\x31\x34\x30\x2C\x30\x29","\x72\x67\x62\x28\x32\x34\x32\x2C\x39\x30\x2C\x31\x35\x36\x29","\x72\x67\x62\x28\x31\x32\x33\x2C\x31\x30\x34\x2C\x32\x33\x38\x29","\x72\x67\x62\x28\x32\x31\x39\x2C\x31\x31\x32\x2C\x31\x34\x37\x29","\x72\x67\x62\x28\x31\x38\x39\x2C\x32\x34\x32\x2C\x32\x30\x38\x29","\x72\x67\x62\x28\x31\x36\x35\x2C\x34\x32\x2C\x34\x32\x29","\x72\x67\x62\x28\x33\x34\x2C\x31\x33\x39\x2C\x33\x34\x29","\x72\x67\x62\x28\x37\x30\x2C\x31\x33\x30\x2C\x31\x38\x30\x29","\x72\x67\x62\x28\x32\x35\x35\x2C\x31\x30\x35\x2C\x31\x38\x30\x29","\x72\x67\x62\x28\x31\x32\x34\x2C\x32\x35\x32\x2C\x30\x29","\x72\x67\x62\x28\x33\x32\x2C\x31\x37\x38\x2C\x31\x37\x30\x29","\x72\x65\x64","\x72\x67\x62\x28\x32\x32\x31\x2C\x31\x36\x30\x2C\x32\x32\x31\x29","\x72\x67\x62\x28\x32\x34\x34\x2C\x31\x36\x34\x2C\x39\x36\x29","\x72\x67\x62\x28\x32\x35\x35\x2C\x34\x38\x2C\x37\x36\x29","\x72\x67\x62\x28\x31\x31\x39\x2C\x31\x33\x36\x2C\x31\x35\x33\x29","\x72\x67\x62\x28\x31\x37\x30\x2C\x32\x35\x35\x2C\x31\x32\x38\x29","\x72\x67\x62\x28\x32\x35\x35\x2C\x31\x36\x30\x2C\x31\x32\x32\x29","\x73\x69\x6C\x76\x65\x72","\x72\x67\x62\x28\x32\x35\x35\x2C\x31\x32\x38\x2C\x31\x32\x38\x29","\x72\x67\x62\x28\x31\x37\x34\x2C\x38\x37\x2C\x32\x35\x35\x29","\x67\x6F\x6C\x64\x65\x6E","\x72\x67\x62\x28\x35\x39\x2C\x31\x36\x33\x2C\x32\x35\x35\x29","\x72\x67\x62\x28\x32\x34\x32\x2C\x32\x34\x32\x2C\x33\x39\x29","\x72\x67\x62\x28\x31\x31\x30\x2C\x32\x34\x32\x2C\x37\x37\x29","\x72\x67\x62\x28\x32\x34\x32\x2C\x31\x37\x32\x2C\x32\x34\x32\x29","\x53\x74\x61\x74\x65","\x41\x63\x74\x69\x76\x65\x20\x43\x61\x73\x65\x73","\x61\x6E\x6E\x6F\x74\x61\x74\x69\x6F\x6E","\x61\x72\x72\x61\x79\x54\x6F\x44\x61\x74\x61\x54\x61\x62\x6C\x65","\x76\x69\x73\x75\x61\x6C\x69\x7A\x61\x74\x69\x6F\x6E","\x31\x30\x30\x25","\x37\x30\x25","\x62\x6C\x61\x63\x6B","\x41\x72\x69\x61\x6C","\x6C\x69\x6E\x65\x61\x72","\x43\x6F\x76\x69\x64\x2D\x31\x39\x20\x41\x66\x66\x65\x63\x74\x65\x64\x20\x43\x61\x73\x65\x73\x20\x69\x6E\x20\x49\x6E\x64\x69\x61","\x44\x61\x74\x61\x20\x49\x73\x20\x42\x61\x73\x65\x64\x20\x4F\x6E\x20\x53\x74\x61\x74\x65","\x77\x68\x69\x74\x65","\x64\x69\x76\x2D\x67\x72\x61\x70\x68","\x64\x72\x61\x77","\x72\x65\x73\x69\x7A\x65"];var stateData;var districtData;var flagSort=false;var stateName=[];var activeCase=[];var expand;async function init(){stateData=  await fetch(_0xf02b[3])[_0xf02b[2]](async (_0x21e5x8)=>{return ( await _0x21e5x8[_0xf02b[1]]())[_0xf02b[0]]});districtData=  await fetch(_0xf02b[4])[_0xf02b[2]](async (_0x21e5x8)=>{return ( await _0x21e5x8[_0xf02b[1]]())});stateData= stateData[_0xf02b[6]]((_0x21e5x9)=>_0x21e5x9[_0xf02b[5]]!= 0);loadStateGraph();loadTable(stateData)}function loadTable(stateData){if(stateData[0][_0xf02b[7]]!= _0xf02b[8]){flagSort= true};str= _0xf02b[9];str+= _0xf02b[10];for(let _0x21e5xb=0;_0x21e5xb< stateData[_0xf02b[11]];_0x21e5xb++){if(stateData[_0x21e5xb][_0xf02b[7]]!= _0xf02b[8]){str+= _0xf02b[12];str+= _0xf02b[13];str+= _0xf02b[14]+ stateData[_0x21e5xb][_0xf02b[7]]+ _0xf02b[15];str+= _0xf02b[14]+ stateData[_0x21e5xb][_0xf02b[5]]+ _0xf02b[15];str+= _0xf02b[14]+ stateData[_0x21e5xb][_0xf02b[16]]+ _0xf02b[15];str+= _0xf02b[14]+ stateData[_0x21e5xb][_0xf02b[17]]+ _0xf02b[15];str+= _0xf02b[14]+ stateData[_0x21e5xb][_0xf02b[18]]+ _0xf02b[19];str+= _0xf02b[20];str+= _0xf02b[21];var _0x21e5xc=Object[_0xf02b[25]](districtData[stateData[_0x21e5xb][_0xf02b[7]]][_0xf02b[23]])[_0xf02b[24]]((_0x21e5xd)=>{str+= _0xf02b[22];str+= _0xf02b[14]+ _0x21e5xd+ _0xf02b[15];str+= _0xf02b[14]+ districtData[stateData[_0x21e5xb][_0xf02b[7]]][_0xf02b[23]][_0x21e5xd][_0xf02b[5]]+ _0xf02b[19]});str+= _0xf02b[26]}};str+= _0xf02b[27];let _0x21e5xe=stateData[_0xf02b[28]](function(_0x21e5xf){return _0x21e5xf[_0xf02b[7]]== _0xf02b[8]});str+= _0xf02b[29];str+= _0xf02b[30]+ stateData[_0x21e5xe][_0xf02b[5]]+ _0xf02b[31];str+= _0xf02b[30]+ stateData[_0x21e5xe][_0xf02b[16]]+ _0xf02b[31];str+= _0xf02b[30]+ stateData[_0x21e5xe][_0xf02b[17]]+ _0xf02b[31];str+= _0xf02b[30]+ stateData[_0x21e5xe][_0xf02b[18]]+ _0xf02b[32];document[_0xf02b[35]](_0xf02b[34])[_0xf02b[33]]= str}function sortData(_0x21e5x11){document[_0xf02b[38]](_0xf02b[37])[_0xf02b[36]]= _0xf02b[9];var _0x21e5x12=stateData;console[_0xf02b[39]](_0x21e5x12);if(flagSort){_0x21e5x12[_0xf02b[40]](function(_0x21e5x13,_0x21e5x14){return _0x21e5x14[_0x21e5x11]- _0x21e5x13[_0x21e5x11]});flagSort= false}else {_0x21e5x12[_0xf02b[40]](function(_0x21e5x13,_0x21e5x14){return _0x21e5x13[_0x21e5x11]- _0x21e5x14[_0x21e5x11]});flagSort= true};loadTable(_0x21e5x12)}$(document)[_0xf02b[61]](function(){$(_0xf02b[60])[_0xf02b[59]](_0xf02b[41],_0xf02b[42],function(){$(this)[_0xf02b[48]](_0xf02b[47])[_0xf02b[46]](_0xf02b[45])[_0xf02b[44]](100,_0xf02b[43]);let _0x21e5x15=$(this)[_0xf02b[52]](_0xf02b[51])[_0xf02b[50]](_0xf02b[49]);$(this)[_0xf02b[52]](_0xf02b[51])[_0xf02b[53]](_0x21e5x15);if(_0x21e5x15[_0xf02b[55]](_0xf02b[54])!=  -1){$(this)[_0xf02b[52]](_0xf02b[51])[_0xf02b[57]](_0xf02b[56])}else {$(this)[_0xf02b[52]](_0xf02b[51])[_0xf02b[57]](_0xf02b[58])}})});function searchStateDistrict(_0x21e5x17){let _0x21e5x18=document[_0xf02b[63]](_0xf02b[62]);if(_0x21e5x17!= _0xf02b[64]&& _0x21e5x17!= _0xf02b[9]){let _0x21e5x19=0;let _0x21e5x1a=false;for(let _0x21e5xb=0;_0x21e5xb< _0x21e5x18[_0xf02b[11]];_0x21e5xb++){if(_0x21e5x18[_0x21e5xb][_0xf02b[65]]== _0xf02b[66]){_0x21e5x18[_0x21e5xb][_0xf02b[68]][_0xf02b[67]]= _0xf02b[69];if(_0x21e5x18[_0x21e5x19][_0xf02b[72]][0][_0xf02b[71]][0][_0xf02b[65]][_0xf02b[55]](_0xf02b[70])!=  -1){_0x21e5x18[_0x21e5x19][_0xf02b[72]][0][_0xf02b[71]][0][_0xf02b[65]]= _0xf02b[58]}};if(_0x21e5x18[_0x21e5xb][_0xf02b[65]]== _0xf02b[73]|| (!_0x21e5x1a&& _0x21e5x18[_0x21e5xb][_0xf02b[65]]== _0xf02b[74])){if(_0x21e5x18[_0x21e5xb][_0xf02b[65]]== _0xf02b[73]){_0x21e5x19= _0x21e5xb};let _0x21e5x1b=(_0x21e5x18[_0x21e5xb][_0xf02b[65]]== _0xf02b[73])?1:0;if(_0x21e5x18[_0x21e5xb][_0xf02b[72]][_0x21e5x1b][_0xf02b[33]][_0xf02b[75]]()[_0xf02b[55]](_0x21e5x17)!=  -1){_0x21e5x18[_0x21e5x19][_0xf02b[68]][_0xf02b[67]]= _0xf02b[9];_0x21e5x1a= true}else {_0x21e5x18[_0x21e5x19][_0xf02b[68]][_0xf02b[67]]= _0xf02b[69];_0x21e5x1a= false}}}}else {for(let _0x21e5xb=0;_0x21e5xb< _0x21e5x18[_0xf02b[11]];_0x21e5xb++){if(_0x21e5x18[_0x21e5xb][_0xf02b[68]][_0xf02b[67]]== _0xf02b[69]){_0x21e5x18[_0x21e5xb][_0xf02b[68]][_0xf02b[67]]= _0xf02b[9]}}}}function loadStateGraph(){var _0x21e5x8=stateData[_0xf02b[6]]((_0x21e5x9)=>_0x21e5x9[_0xf02b[5]]!= 0&& _0x21e5x9[_0xf02b[7]]!= _0xf02b[8]);for(let _0x21e5xb=0;_0x21e5xb< _0x21e5x8[_0xf02b[11]];_0x21e5xb++){stateName[_0xf02b[76]](_0x21e5x8[_0x21e5xb][_0xf02b[7]]);activeCase[_0xf02b[76]](parseInt(_0x21e5x8[_0x21e5xb][_0xf02b[16]]))};google[_0xf02b[81]][_0xf02b[80]](_0xf02b[77],{packages:[_0xf02b[78],_0xf02b[79]]});google[_0xf02b[81]][_0xf02b[82]](drawTitleSubtitle)}function drawTitleSubtitle(){let _0x21e5x1e=[_0xf02b[83],_0xf02b[84],_0xf02b[85],_0xf02b[86],_0xf02b[87],_0xf02b[88],_0xf02b[89],_0xf02b[90],_0xf02b[91],_0xf02b[92],_0xf02b[93],_0xf02b[94],_0xf02b[95],_0xf02b[96],_0xf02b[97],_0xf02b[98],_0xf02b[99],_0xf02b[93],_0xf02b[100],_0xf02b[101],_0xf02b[102],_0xf02b[103],_0xf02b[104],_0xf02b[105],_0xf02b[106],_0xf02b[107],_0xf02b[108]];let _0x21e5x1f= new Array();_0x21e5x1f[0]= [_0xf02b[109],_0xf02b[110],{role:_0xf02b[68]},{role:_0xf02b[111]}];for(var _0x21e5xb=0;_0x21e5xb< stateName[_0xf02b[11]];_0x21e5xb++){_0x21e5x1f[_0x21e5xb+ 1]= [stateName[_0x21e5xb],activeCase[_0x21e5xb],_0x21e5x1e[_0x21e5xb],activeCase[_0x21e5xb]]};sortArray(_0x21e5x1f);var _0x21e5x8=google[_0xf02b[113]][_0xf02b[112]](_0x21e5x1f);materialOptions= {legend:{position:_0xf02b[69]},width:_0xf02b[114],chartArea:{top:20,bottom:90,left:230,width:_0xf02b[115],height:_0xf02b[114]},'\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x43\x6F\x6C\x6F\x72':{'\x66\x69\x6C\x6C':_0xf02b[116]},tooltip:{textStyle:{fontName:_0xf02b[117],fontSize:18}},animation:{easing:_0xf02b[118],duration:200,startup:true},chart:{title:_0xf02b[119],subtitle:_0xf02b[120]},hAxis:{titleTextStyle:{bold:true,italic:false,fontSize:20,color:_0xf02b[121]},textStyle:{fontSize:15,color:_0xf02b[121]},title:_0xf02b[110]},vAxis:{titleTextStyle:{bold:true,italic:false,fontSize:20,color:_0xf02b[121]},textStyle:{fontSize:15,color:_0xf02b[121]},maxTextLines:2,title:_0xf02b[109],maxWidth:2}};var _0x21e5x20= new google[_0xf02b[113]].BarChart(document[_0xf02b[35]](_0xf02b[122]));_0x21e5x20[_0xf02b[123]](_0x21e5x8,materialOptions);$(document)[_0xf02b[61]](function(){$(window)[_0xf02b[124]](function(){_0x21e5x20[_0xf02b[123]](_0x21e5x8,materialOptions)})})}function sortArray(_0x21e5x22){for(let _0x21e5xb=1;_0x21e5xb< _0x21e5x22[_0xf02b[11]];_0x21e5xb++){for(let _0x21e5x23=_0x21e5xb+ 1;_0x21e5x23< _0x21e5x22[_0xf02b[11]];_0x21e5x23++){if(_0x21e5x22[_0x21e5xb][1]< _0x21e5x22[_0x21e5x23][1]){let _0x21e5x24=_0x21e5x22[_0x21e5xb];_0x21e5x22[_0x21e5xb]= _0x21e5x22[_0x21e5x23];_0x21e5x22[_0x21e5x23]= _0x21e5x24}}}}
+var stateData;
+var districtData;
+var flagSort=false;
+var stateName=[];
+var activeCase=[];
+var expand;
+
+//to fetch and initialize the data
+async function init()
+{
+	stateData = await fetch("https://api.covid19india.org/data.json").then(async data=>{return (await data.json()).statewise});
+	districtData = await fetch("https://api.covid19india.org/state_district_wise.json").then(async data=>{return (await data.json())});
+	stateData= stateData.filter(item=>item.confirmed!=0);
+
+	loadStateGraph();
+	loadTable(stateData);
+}
+
+/* Constructing & Loading State Table */
+function loadTable(stateData)
+{
+	if(stateData[0]["state"]!="Total")
+	{
+		flagSort=true;
+	}
+	str="";
+	str+="<thead><tr><th class='sign'></th><th style='width:30%'>State Name</th><th class='heading' onclick=\"sortData(\'confirmed\')\"	style='width:19%'>CONFIRMED<i class='sort-sign fa fa-sort'></i></th><th class='heading' style='width:14%' onclick=\"sortData(\'active\')\">ACTIVE<i class='sort-sign fa fa-sort'></i></th><th class='heading' style='width:20%' onclick=\"sortData(\'recovered\')\">RECOVERED<i class='sort-sign fa fa-sort'></i></th><th class='heading' style='width:20%' onclick=\"sortData(\'deaths\')\">DEATH<i class='sort-sign fa fa-sort'></i></th></tr></thead><tbody>";           
+	for(let i=0; i<stateData.length; i++)
+	{                     
+		if(stateData[i]["state"]!="Total")
+		{
+			str+="<tr class='breakrow'>";
+			str+="<td style='width:4%;'><i class='fa fa-angle-right' style='font-weight:bold;font-size:large'></i></td>";
+			str+="<td>"+stateData[i]["state"]+"</td>";
+			str+="<td>"+stateData[i]["confirmed"]+"</td>";
+			str+="<td>"+stateData[i]["active"]+"</td>";
+			str+="<td>"+stateData[i]["recovered"]+"</td>";
+			str+="<td>"+stateData[i]["deaths"]+"</td></tr>";
+
+			str+="<tr class='datarow'><td></td><td colspan='5'><div class='sub-container'><table class='child'>";
+			str+="<thead><tr class='tableheader'><th style='width:100%'>District Name</th><th style='padding:0px 5px;'>CONFIRMED</th></tr></thead><tbody>";
+			var total_dist = Object.keys(districtData[stateData[i]["state"]].districtData).forEach(key=>
+			{
+				str+="<tr class='districtrow'>";
+				str+="<td>"+key+"</td>";
+				str+="<td>"+districtData[stateData[i]["state"]].districtData[key].confirmed+"</td></tr>";
+			});
+			str+="</tbody></table></div></td></tr>"
+		}
+	}
+	str+="</tbody>";
+	let idx = stateData.findIndex(function(person) {
+		return person.state == "Total";
+	});
+	str+="<tfoot><tr><th class='sign'></th><th>Total</th>";
+	str+="<th>"+stateData[idx]["confirmed"]+"</th>";
+	str+="<th>"+stateData[idx]["active"]+"</th>";
+	str+="<th>"+stateData[idx]["recovered"]+"</th>";
+	str+="<th>"+stateData[idx]["deaths"]+"</th></tr></tfoot>";
+	
+	document.getElementById("state-table").innerHTML=str;
+}
+
+/* Sort State Name Based On Confrimed */
+function sortData(type)
+{
+	
+	document.querySelector('#search-input').value = "";
+		
+	var obj = stateData;
+	console.log(obj)
+	if(flagSort)
+	{
+		obj.sort(function(a, b){
+		return b[type] - a[type];
+		});
+		flagSort=false;
+	}
+	else
+	{
+		obj.sort(function(a, b){
+			return a[type] - b[type];
+		});
+		flagSort=true;
+	}
+	loadTable(obj);
+}
+
+/* Add District Row Feature */
+$(document).ready(function() //to access jquery from external js file we have to write this line
+{
+	//to open child rows
+	$('#state-table').on('click', 'tr.breakrow',function()
+	{
+		$(this).closest('tr').nextUntil('.breakrow').slideToggle(100,"swing");
+		let sign_class=$(this).find("i").attr('class');
+		$(this).find("i").removeClass(sign_class);
+		if(sign_class.indexOf('right') != -1)
+			$(this).find("i").addClass('fa fa-angle-down');
+		else
+			$(this).find("i").addClass('fa fa-angle-right');   
+	});
+});
+function searchStateDistrict(value)
+{
+	let state_rows = document.querySelectorAll('#state-table tbody tr');
+	if(value != "clear" && value !="")
+	{
+		let parent_row_idx=0;
+		let flag = false;
+		for(let i=0;i<state_rows.length;i++)
+		{
+			if(state_rows[i].className == "datarow")
+			{
+				state_rows[i].style.display="none";
+				if( state_rows[parent_row_idx].cells[0].childNodes[0].className.indexOf('down') != -1)
+				{
+					state_rows[parent_row_idx].cells[0].childNodes[0].className = "fa fa-angle-right";
+				}
+			}
+			if(state_rows[i].className == "breakrow" || (!flag && state_rows[i].className == "districtrow"))
+			{
+				if(state_rows[i].className == "breakrow")parent_row_idx = i;
+				let column_idx = (state_rows[i].className == "breakrow")?1:0;
+				if(state_rows[i].cells[column_idx].innerHTML.toUpperCase().indexOf(value)!=-1)
+				{
+					state_rows[parent_row_idx].style.display="";
+					flag = true;
+				}
+				else
+				{
+					state_rows[parent_row_idx].style.display="none";
+					flag = false;
+				}
+			}
+		}
+	}
+	else
+	{
+		for(let i=0;i<state_rows.length;i++)
+		{
+			if(state_rows[i].style.display == "none")
+				state_rows[i].style.display="";
+		}
+	}
+	//console.log(value);
+	
+}
+
+/******* Graph File ******/
+
+/* Loading  State Graph */
+function loadStateGraph()
+{
+	var data = stateData.filter(item=>item.confirmed!=0 && item.state!="Total");
+	for(let i=0;i<data.length;i++)
+	{
+		stateName.push(data[i].state);
+		activeCase.push(parseInt(data[i].active));
+	}
+	google.charts.load('current', {packages: ['corechart', 'bar']});
+	google.charts.setOnLoadCallback(drawTitleSubtitle);
+}
+/* Drawing Graph To div */
+function drawTitleSubtitle() 
+{
+	let colors = ["rgb(255,140,0)","rgb(242,90,156)","rgb(123,104,238)","rgb(219,112,147)","rgb(189,242,208)","rgb(165,42,42)","rgb(34,139,34)","rgb(70,130,180)","rgb(255,105,180)","rgb(124,252,0)","rgb(32,178,170)","red","rgb(221,160,221)","rgb(244,164,96)","rgb(255,48,76)","rgb(119,136,153)","rgb(170,255,128)","rgb(32,178,170)","rgb(255,160,122)","silver","rgb(255,128,128)","rgb(174,87,255)","golden","rgb(59,163,255)","rgb(242,242,39)","rgb(110,242,77)","rgb(242,172,242)"];
+	let Combined = new Array();
+	Combined[0]=['State','Active Cases',{role:'style'},{role:'annotation'}];
+
+	for(var i=0;i<stateName.length;i++)
+	{
+		Combined[i+1]=[stateName[i],activeCase[i],colors[i],activeCase[i]];
+	}
+	sortArray(Combined);
+
+	var data = google.visualization.arrayToDataTable(Combined);
+	materialOptions = {
+		legend: { position: 'none' },
+		width:'100%',
+		chartArea: 
+		{
+			top:20,
+			bottom:90,
+			left:230,
+			width:'70%',
+			height:'100%',
+		},
+		'backgroundColor': 
+		{
+				'fill': 'black',
+		},
+		tooltip: { textStyle: { fontName: 'Arial', fontSize:18}},
+		animation:
+		{
+			easing:'linear',
+			duration:200,
+			startup:true
+		},
+		chart: 
+		{
+			title: 'Covid-19 Affected Cases in India',
+			subtitle: 'Data Is Based On State',
+		},
+		hAxis: 
+		{
+			titleTextStyle:{bold:true,italic:false,fontSize:20,color:'white'},
+			textStyle:{fontSize:15,color:'white'},
+			title: 'Active Cases',
+		},
+		vAxis: 
+		{
+			titleTextStyle:{bold:true,italic:false,fontSize:20,color:'white'},
+			textStyle:{fontSize:15,color:'white'},
+			maxTextLines:2,
+			title: 'State',
+			maxWidth:2
+		},
+		
+	};
+	
+	var materialChart = new google.visualization.BarChart(document.getElementById('div-graph'));
+	materialChart.draw(data, materialOptions);
+	$(document).ready(function () {
+			$(window).resize(function(){
+		materialChart.draw(data, materialOptions);
+		});
+	});
+
+}	
+
+/* Short State Array For Graph */
+function sortArray(stateArray)
+{
+	for(let i=1;i<stateArray.length;i++)
+	{
+		for(let j=i+1;j<stateArray.length;j++)
+		{
+			if(stateArray[i][1] < stateArray[j][1])
+			{
+				let temp = stateArray[i];
+				stateArray[i]=stateArray[j];
+				stateArray[j]=temp;
+			}
+		}
+	}
+}
+

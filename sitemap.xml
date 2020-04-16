@@ -8,6 +8,11 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://www.covid19out.ml/sitemap.xml</loc>
+  <lastmod>2020-04-14T16:43:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://www.covid19out.ml/index.html</loc>
   <lastmod>2020-04-14T16:43:03+00:00</lastmod>
   <priority>0.80</priority>
@@ -27,9 +32,5 @@
   <lastmod>2020-04-14T16:43:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://www.covid19out.ml/sitemap.xml</loc>
-  <lastmod>2020-04-14T16:43:03+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+
 </urlset>

@@ -2,19 +2,26 @@
 <html>
     <head>
         <title>OverAll Details</title>
-        <link rel="manifest" href="./manifest.json">
-         <link rel="apple-touch-icon" href="./img/img96.png">
-        <link rel="apple-mobile-web-app-status-bar" content="#aa7700">
+		<link rel="icon" href ="img/companylogo.ico" sizes="80x80" type="image/x-icon">
+        
+		<link rel="manifest" href="./manifest.json">      
         <script src="./Scripts/app.js"></script>
         <meta name="theme-color" content="#FFE1C4">
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <link rel="apple-touch-startup-image" sizes="1242x2208" href="./img/iphone6s.png">
-
-
-
+		<link rel="apple-mobile-web-app-status-bar" content="#aa7700">
+		<link rel="apple-touch-icon" href="./img/img96.png">
+		<link rel="apple-touch-startup-image" sizes="1792x828" href="./img/iphone11.png">
+		<link rel="apple-touch-startup-image" sizes="2048x2732" href="./img/ipad_pro_129.png">
+		<link rel="apple-touch-startup-image" sizes="1668x2224" href="./img/ipad_pro_105.png">
+		<link rel="apple-touch-startup-image" sizes="1536x2048" href="./img/ipadmini4.png">
+		<link rel="apple-touch-startup-image" sizes="1125x2436" href="./img/iphonex.png">
+		<link rel="apple-touch-startup-image" sizes="1242x2208" href="./img/iphone6s_plus.png">
+		<link rel="apple-touch-startup-image" sizes="750x1334" href="./img/iphone6s.png">
+		<link rel="apple-touch-startup-image" sizes="640x1136" href="./img/iphoneSE.png">
+		
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-        <script type="text/javascript" src="./Scripts/index-min.js"></script>
+        <script type="text/javascript" src="./Scripts/index.js"></script>
         
         <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Headland+One|Noto+Sans+JP:900&display=swap&subset=latin-ext" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@800&family=Monoton&display=swap" rel="stylesheet">
@@ -23,9 +30,11 @@
         <link rel="stylesheet" href="./StyleSheets/index.css">
         <link rel="stylesheet" href="./StyleSheets/footer.css">
         <link rel="stylesheet" href="./css/font-awesome-4.7.0/css/font-awesome.min.css">
+		
+		
     </head> 
    
-    <body onload="init()">
+    <body onload="init()" >
         <div class="logo"><p>
 			  <span class="logo" style='color: #64B5F6'>C</span>
 			  <span class="logo" style='color: red'>O</span>
@@ -50,7 +59,7 @@
                 <div class="india-status">
                     <div class="total-status">
                         <P>TOTAL CASES <span class="popup" id="popup-total-indiaCase" >&nbsp;New :+&nbsp;</span></P>
-                        <p class="numbers" id="label-total-indiaCase"></p>
+                        <p class="numbers" id="label-total-indiaCase" onchange="alert(this.value)"></p>
                     </div>
                     <hr class="hr-status"/>
                     <div class="active-status">
@@ -151,7 +160,7 @@
                     </p>
                     <p class="whatsapp_share">
                         <span>Share On  </span>
-                        <a target="_blank" href="whatsapp://send?text=This live tracker is useful to track the cases of Coronavirus (COVID-19) in India and across the World. For more information  Visit: Our Future Site Domain and spread the words with your friends and family!">
+                        <a target="_blank" href="whatsapp://send?text=This live tracker is useful to track the cases of Coronavirus (COVID-19) in India and across the World. For more information  Visit: www.covid19out.ml and spread the words with your friends and family! #stayhomestaysafe">
                             <i class="fa fa-whatsapp"></i>
                         </a>
                     </p>

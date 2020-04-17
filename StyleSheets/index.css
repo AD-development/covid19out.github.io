@@ -245,7 +245,7 @@ i
     left:7px;
     color:black;
 }
-/**tooltip**/
+
 .introjs-overlay 
 {
     background-color: #9e9e9e;
@@ -268,7 +268,7 @@ i
     background-color:#ff4949;
 }
 
-/*****logo and how to use****/
+
 .how_to_use
 {
     position: absolute;

@@ -82,7 +82,7 @@ div.india-status,div.world-status div
 }
 div.total-status p
 {
-    color:whitesmoke;
+    color:red;
     font-size: 2em;
 }
 div.active-status p
